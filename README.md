@@ -1,1 +1,1 @@
-# vektorelbilisim
+#vektorelbilisim
