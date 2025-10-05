@@ -6,5 +6,4 @@
 <p> Konsol Uygulaması Kullanımı </p> 
 <h3>Kullanmımı sayılar girilir ve klavye ile girdiler alınır basit şık ve kullanışlıdır.</h3>
 <br />
-<h3>Uygulama Geliştiriliyor Beta Aşamasındadır....</h3>
 <h3>Yapımcı: Ahmet Ali Benli</h3>
