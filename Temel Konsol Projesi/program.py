@@ -391,7 +391,7 @@ while True:
             print("║    Daha Doğmadınız  ║")
             print("║          :(         ║")
             print("║═════════════════════║")
-            print(f"║      ERROR :/     ║")
+            print("║      ERROR :/       ║")
             print("╚═════════════════════╝")
             sleep(10)
         
